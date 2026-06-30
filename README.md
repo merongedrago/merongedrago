@@ -1,6 +1,6 @@
 ## Hi there, I am Meron 👋
 
-I'm a data scientist with experience across consulting, international development, and tech.
+I'm a data scientist with experience across management consulting, international development, and tech.
 
 ### Education
 🎓 MSc Data Science (MIDS), Duke University | BA Mathematics, Amherst College
