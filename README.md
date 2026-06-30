@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there, I am Meron 👋
 
 <!--
-**merongedrago/merongedrago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data scientist with experience across consulting, international development, and tech.
 
-Here are some ideas to get you started:
+### Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🎓 MSc Data Science (MIDS), Duke University | BA Mathematics, Amherst College
+
+### Current Interests
+
+🔬 Particularly interested in data engineering, MLOps, DevOps and causal inference.
+
+### Skills
+
+🐍 **Languages**: Python, SQL, R  
+☁️ **Cloud & Data**: AWS, ETL Pipelines, Redshift  
+🤖 **ML & Stats**: Machine Learning, Causal Inference, A/B Testing, NLP  
+🛠️ **Tools**: Git, Docker, Streamlit, Flask, Pinecone, Qdrant  
+
+### Connect
+
+💼 [LinkedIn](https://linkedin.com/in/merongedrago)
 -->
